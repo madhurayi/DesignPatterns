@@ -1,4 +1,4 @@
-package DesignBookMyShow.Enums;
+package LLDBookMyShow.Enums;
 
 public enum SeatCategory {
     SILVER,

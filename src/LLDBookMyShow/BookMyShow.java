@@ -1,7 +1,7 @@
-package DesignBookMyShow;
+package LLDBookMyShow;
 
-import DesignBookMyShow.Enums.City;
-import DesignBookMyShow.Enums.SeatCategory;
+import LLDBookMyShow.Enums.City;
+import LLDBookMyShow.Enums.SeatCategory;
 
 import java.util.ArrayList;
 import java.util.List;

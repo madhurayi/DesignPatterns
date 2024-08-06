@@ -1,6 +1,6 @@
-package DesignBookMyShow;
+package LLDBookMyShow;
 
-import DesignBookMyShow.Enums.City;
+import LLDBookMyShow.Enums.City;
 
 import java.util.List;
 

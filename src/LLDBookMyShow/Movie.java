@@ -1,4 +1,4 @@
-package DesignBookMyShow;
+package LLDBookMyShow;
 
 public class Movie {
     int movieId;
