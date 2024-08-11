@@ -1,4 +1,4 @@
-package DesignPatterns.FactoryPattern.ProfessionFactory;
+package DesignPatterns.CreationalDesignPatters.FactoryPattern.ProfessionFactory;
 
 public class Main {
     public static void main(String[] args) {

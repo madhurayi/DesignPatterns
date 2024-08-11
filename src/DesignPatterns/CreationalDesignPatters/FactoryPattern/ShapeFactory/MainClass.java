@@ -1,4 +1,4 @@
-package DesignPatterns.FactoryPattern.ShapeFactory;
+package DesignPatterns.CreationalDesignPatters.FactoryPattern.ShapeFactory;
 
 public class MainClass {
     public static void main(String[] args) {
